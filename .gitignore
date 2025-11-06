@@ -35,12 +35,9 @@ ENV/
 env.bak/
 venv.bak/
 
-# Logs and Data
+# Logs
 logs/
 *.log
-data/
-!data/.gitkeep
-!data/images/.gitkeep
 
 # Notebook checkpoints
 .ipynb_checkpoints
