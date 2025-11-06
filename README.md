@@ -1,4 +1,4 @@
-# VLM-Agentic-VQA
+# VLM Agentic Visual Question Answering
 
 This repository presents an in-depth exploration of agent-based systems for solving complex Visual Question Answering (VQA) tasks. It moves beyond simple zero-shot prompting to build and evaluate two distinct agentic pipelines. 
 
