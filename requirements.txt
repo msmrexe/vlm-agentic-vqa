@@ -1,0 +1,8 @@
+pandas
+matplotlib
+torch
+transformers
+qwen-vl-utils==0.0.8
+opencv-python-headless
+numpy
+tqdm
